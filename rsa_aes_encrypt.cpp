@@ -1,3 +1,6 @@
+//Author: Javier Vicente Vallejo
+//Related article: http://www.vallejo.cc/2018/09/cryptoapi-derandomization.html
+
 //#ifndef _WIN32_WINNT
 //#define _WIN32_WINNT 0x0500
 //#endif						
